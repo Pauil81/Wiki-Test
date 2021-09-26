@@ -125,7 +125,7 @@
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 350
+        size = 358
     }
 }
 #Chizhou (5088000/1272000 POPS)
